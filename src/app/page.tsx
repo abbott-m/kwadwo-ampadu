@@ -11,61 +11,61 @@ const projects = [
     id: 1,
     title: "Free The Youth",
     url: "https://free-the-youth.vercel.app",
-    description: "Youth empowerment platform transforming communities across Ghana",
+    description: "Where sound meets style. Experience exclusive performances and runway shows featuring Africa's most innovative artists and designers, all in one unforgettable weekend",
     tech: ["Next.js", "React", "Tailwind CSS"],
     color: "from-purple-500 to-pink-500",
-    category: "Social Impact"
+    category: "Rave"
   },
   {
     id: 2,
     title: "XecutePass",
     url: "https://www.xecutepass.com/",
-    description: "Advanced authentication and security management system",
+    description: "Transform your events with smart tickets, digital credits, and comprehensive insurance. Experience the future of event management today",
     tech: ["React", "Node.js", "Security"],
     color: "from-blue-500 to-cyan-500",
-    category: "Security"
+    category: "Ticketing"
   },
   {
     id: 3,
-    title: "TrusonDR",
+    title: "Trusondr",
     url: "https://www.trusondr.com/",
-    description: "Medical technology platform revolutionizing healthcare",
+    description: "A privacy-focused platform that matches you with like-minded people while keeping your identity completely under your control",
     tech: ["Next.js", "Healthcare API", "AI"],
     color: "from-green-500 to-emerald-500",
-    category: "HealthTech"
+    category: "AI Community"
   },
   {
     id: 4,
-    title: "Mesusu",
+    title: "MeSusu",
     url: "https://mesusu.app/",
-    description: "Innovative mobile application for modern connectivity",
+    description: "A structured, goal-oriented savings platform that encourages daily savings, rewards users for meeting their goals, and offers a clear, easy-to-use interface for tracking progress",
     tech: ["React Native", "Mobile", "Cloud"],
     color: "from-orange-500 to-red-500",
-    category: "Mobile"
+    category: "Fintech"
   },
   {
     id: 5,
     title: "Xecute Team",
     url: "https://www.xecuteteam.com/",
-    description: "Team collaboration and project management platform",
+    description: "Creating and actualizing modern ideas in entertainment around Africa and beyond. We are a full-service organization supporting diverse talent through artist management, events, and marketing excellence",
     tech: ["Next.js", "Team Tools", "Productivity"],
     color: "from-indigo-500 to-purple-500",
-    category: "Productivity"
+    category: "Events"
   },
   {
     id: 6,
     title: "St Andrews Website",
     url: "https://st-andrews-website.vercel.app/",
-    description: "Modern institutional website with elegant design",
+    description: "Founded in 2005 with a simple yet powerful vision: to create an educational environment where every student could reach their full potential",
     tech: ["Next.js", "CMS", "Education"],
     color: "from-teal-500 to-blue-500",
     category: "Education"
   },
   {
     id: 7,
-    title: "Zaamadi Disco Concert",
+    title: "Zaama Disco Concert",
     url: "https://www.zaamadiscoconcert.com/",
-    description: "Vibrant event platform for music and entertainment",
+    description: "A fusion of music, fashion, art, and raw energy, Zaama Disco is where Ghana's youth and culture and the world come alive to celebrate creativity and culture",
     tech: ["React", "Events", "Entertainment"],
     color: "from-pink-500 to-rose-500",
     category: "Entertainment"
@@ -74,16 +74,16 @@ const projects = [
     id: 8,
     title: "Vintage Gala",
     url: "https://www.vintagegala.org/",
-    description: "Elegant event organization and management system",
+    description: "Promotes conscious fashion, reduces textile waste, and supports a circular economy. By connecting vendors, creatives, and shoppers, vintage gala inspires mindful choices and celebrates fashion that's both stylish and sustainable.",
     tech: ["Next.js", "Events", "Luxury"],
     color: "from-amber-500 to-orange-500",
-    category: "Events"
+    category: "Brand"
   },
   {
     id: 9,
-    title: "Slam Jam Web",
+    title: "Slam Jam",
     url: "https://slam-jam-web.vercel.app/",
-    description: "Dynamic sports and entertainment web application",
+    description: "Step into the arena where high-octane basketball prowess meets electrifying entertainment. The ultimate celebration of high school culture, sport, and music creating an immersive, dynamic experience that captivates fans and participants alike",
     tech: ["React", "Sports", "Real-time"],
     color: "from-red-500 to-pink-500",
     category: "Sports"
