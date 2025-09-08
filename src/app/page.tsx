@@ -524,7 +524,7 @@ export default function UltraSmoothARPortfolio() {
             transition={{ duration: 0.8, delay: 0.6, ease: [0.25, 0.25, 0.25, 1] }}
             className="grid grid-cols-2 md:grid-cols-5 gap-3 max-w-3xl mx-auto"
           >
-            {['NEXT.JS', 'REACT', 'TYPESCRIPT', 'NODE.JS', 'AI/ML'].map((skill) => (
+            {['NEXT.JS', 'REACT', 'TYPESCRIPT', 'NODE.JS', 'FLUTTER', 'AI/ML', 'PYTHON', 'PHP', 'GO', 'SQL'].map((skill) => (
               <div
                 key={skill}
                 className="bg-black/40 border border-cyan-400/20 rounded px-3 py-2 text-center font-mono text-cyan-300 text-sm hover:border-cyan-400/40 transition-colors duration-200"
